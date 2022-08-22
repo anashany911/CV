@@ -17,17 +17,3 @@ h2{
  p { 
      color: #29A0B1;
    }
-   Anasimage.png{
-    width: 10em;
-    height: 5ex;
-    background-color: gold;
-    border: 2px solid firebrick;
-    border-radius: 10px;
-    font-weight: bold;
-    color: black;
-    cursor: pointer;
-}
-
-Anasimage.png:hover {
-    background-color: rgb(165, 106, 34);
-}

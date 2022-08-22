@@ -1,15 +1,16 @@
-body {
+body{
     background-color: #DDFFE7;;
-   }
-   hr {
-    background-color: #98D7C2;
-    border-style: none;
-    height: 2px;
-    width: 1338px;
+}
+hr {
+ background-color: #98D7C2;
+ border-style: none;
+ height: 2px;
+ width: 1338px;
 }
 h1 {
-    color: #167D7F;
-    }
-    p { 
-        color: #29A0B1;
-      }
+ color: #167D7F;
+ }
+ p { 
+     color: #29A0B1;
+   }
+ 

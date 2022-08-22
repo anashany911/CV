@@ -1,15 +1,19 @@
 body{
     background-color: #DDFFE7;;
 }
-hr {
+h1 {
+    color: #167D7F;
+    }
+h2{
+        color: #167D7F;
+        }
+    hr {
  background-color: #98D7C2;
  border-style: none;
  height: 2px;
  width: 1338px;
 }
-h1 {
- color: #167D7F;
- }
+
  p { 
      color: #29A0B1;
    }

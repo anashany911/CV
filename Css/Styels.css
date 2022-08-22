@@ -1,9 +1,15 @@
 body {
-    background-color: grey;;
+    background-color: #DDFFE7;;
    }
    hr {
-    background-color: black;
+    background-color: #98D7C2;
     border-style: none;
     height: 2px;
     width: 1339px;
+}
+h1 {
+    color: #167D7F;
     }
+    p { 
+        color: #29A0B1;
+      }

@@ -13,7 +13,12 @@ h2{
  height: 2px;
  width: 1338px;
 }
+pro{
+
+    text-decoration: underline;
+}
 
  p { 
      color: #29A0B1;
    }
+  

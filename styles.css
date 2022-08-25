@@ -1,5 +1,7 @@
 body{
+    text-align: center;
     background-color: #DDFFE7;;
+    font-family: sans-serif;
 }
 h1 {
     color: #167D7F;
@@ -25,4 +27,11 @@ p {
  p { 
      color: #29A0B1;
    }
-  
+.bottom-cloud{
+    position: absolute;
+}
+.top-cloud{
+    position: relative;
+    left: 280px;
+    top: 50px;
+}
